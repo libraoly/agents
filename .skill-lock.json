@@ -1,0 +1,207 @@
+{
+  "version": 3,
+  "skills": {
+    "antfu": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/antfu/SKILL.md",
+      "skillFolderHash": "892f71a5d96f9ad720d7af4cdb692852b643f119",
+      "installedAt": "2026-02-03T04:13:02.088Z",
+      "updatedAt": "2026-02-05T01:17:24.358Z"
+    },
+    "nuxt": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/nuxt/SKILL.md",
+      "skillFolderHash": "a83cf8de14f79487619c7938847a0070726225da",
+      "installedAt": "2026-02-03T04:13:02.399Z",
+      "updatedAt": "2026-02-05T01:17:24.702Z"
+    },
+    "pinia": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/pinia/SKILL.md",
+      "skillFolderHash": "39d25e6812ea8ec3361fd18c2551629bd1afa344",
+      "installedAt": "2026-02-03T04:13:02.840Z",
+      "updatedAt": "2026-02-05T01:17:24.933Z"
+    },
+    "pnpm": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/pnpm/SKILL.md",
+      "skillFolderHash": "3e2f92c74abae6e9d2e4fc45b5d73a7b307348c9",
+      "installedAt": "2026-02-03T04:13:03.276Z",
+      "updatedAt": "2026-02-05T01:17:25.253Z"
+    },
+    "slidev": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/slidev/SKILL.md",
+      "skillFolderHash": "b877ce09e59aa9ab72c67342813b98ae704feb0f",
+      "installedAt": "2026-02-03T04:13:03.646Z",
+      "updatedAt": "2026-02-03T04:13:03.646Z"
+    },
+    "tsdown": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/tsdown/SKILL.md",
+      "skillFolderHash": "ca25dac43c1b94638f3423231692796704b1016c",
+      "installedAt": "2026-02-03T04:13:04.062Z",
+      "updatedAt": "2026-02-05T01:17:25.555Z"
+    },
+    "turborepo": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/turborepo/SKILL.md",
+      "skillFolderHash": "ecb04d257ea214e2932465a13007f2231ca8d17a",
+      "installedAt": "2026-02-03T04:13:04.459Z",
+      "updatedAt": "2026-02-03T04:13:04.459Z"
+    },
+    "unocss": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/unocss/SKILL.md",
+      "skillFolderHash": "452e862171de4e1b618b6602b8f073375811bca8",
+      "installedAt": "2026-02-03T04:13:04.755Z",
+      "updatedAt": "2026-02-03T04:13:04.755Z"
+    },
+    "vite": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/vite/SKILL.md",
+      "skillFolderHash": "dc30d333febf1f0925e7f89ef0e9c8c624a7da67",
+      "installedAt": "2026-02-03T04:13:05.093Z",
+      "updatedAt": "2026-02-05T01:17:25.813Z"
+    },
+    "vitepress": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/vitepress/SKILL.md",
+      "skillFolderHash": "93ad9feab1c2218b8f42008a28e3a832d0473693",
+      "installedAt": "2026-02-03T04:13:05.394Z",
+      "updatedAt": "2026-02-03T04:13:05.394Z"
+    },
+    "vitest": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/vitest/SKILL.md",
+      "skillFolderHash": "b9413e0a4a6880e09e63f13ce59ee7de4019a27d",
+      "installedAt": "2026-02-03T04:13:05.701Z",
+      "updatedAt": "2026-02-05T01:17:26.051Z"
+    },
+    "vue": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/vue/SKILL.md",
+      "skillFolderHash": "cff239de1fa9a889b40166c85d13157b8ae5408c",
+      "installedAt": "2026-02-03T04:13:06.105Z",
+      "updatedAt": "2026-02-05T01:17:26.252Z"
+    },
+    "vue-router-best-practices": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/vue-router-best-practices/SKILL.md",
+      "skillFolderHash": "0c9a23f611dc4c086e7f3281651baf2e314edfc8",
+      "installedAt": "2026-02-03T04:13:06.509Z",
+      "updatedAt": "2026-02-05T01:17:26.711Z"
+    },
+    "vue-testing-best-practices": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/vue-testing-best-practices/SKILL.md",
+      "skillFolderHash": "558be2d646eb4e89f99aed850de1fc976a2e7c8c",
+      "installedAt": "2026-02-03T04:13:06.810Z",
+      "updatedAt": "2026-02-05T01:17:26.936Z"
+    },
+    "vueuse-functions": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/vueuse-functions/SKILL.md",
+      "skillFolderHash": "18c04491ad341afd9b49db5b3c2e67b0b128839b",
+      "installedAt": "2026-02-03T04:13:07.178Z",
+      "updatedAt": "2026-02-05T01:17:27.164Z"
+    },
+    "web-design-guidelines": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "skillFolderHash": "0373c2e63e2f21334a11682c1c2430d348965e56",
+      "installedAt": "2026-02-03T04:13:07.521Z",
+      "updatedAt": "2026-02-05T01:17:27.410Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "c2f31172b6f256272305a5e6e7228b258446899f",
+      "installedAt": "2026-02-03T04:13:17.774Z",
+      "updatedAt": "2026-02-03T04:13:17.774Z"
+    },
+    "tailwindcss-development": {
+      "source": "laravel/boost",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/laravel/boost.git",
+      "skillPath": ".ai/tailwindcss/3/skill/tailwindcss-development/SKILL.md",
+      "skillFolderHash": "4e5f8b0a81526e583623432783185313f78d1d60",
+      "installedAt": "2026-02-03T04:19:56.491Z",
+      "updatedAt": "2026-02-03T04:19:56.491Z"
+    },
+    "vue-best-practices": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/antfu/skills.git",
+      "skillPath": "skills/vue-best-practices/SKILL.md",
+      "skillFolderHash": "6715cd014bec554dc3c79f8bce172d7dd38ac762",
+      "installedAt": "2026-02-05T01:17:26.459Z",
+      "updatedAt": "2026-02-05T01:17:26.459Z"
+    },
+    "tailwind-patterns": {
+      "source": "srbhr/Resume-Matcher",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/srbhr/Resume-Matcher.git",
+      "skillPath": ".agent/skills/tailwind-pattern/SKILL.md",
+      "skillFolderHash": "d93e9f88340ee678326d8cfc0894a022b238cbc5",
+      "installedAt": "2026-02-05T01:41:00.259Z",
+      "updatedAt": "2026-02-05T01:41:50.907Z"
+    },
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/skill-creator/SKILL.md",
+      "skillFolderHash": "a01fbe3fa7f17f64173bd4fdcfecea86a3fd664c",
+      "installedAt": "2026-02-10T05:35:04.907Z",
+      "updatedAt": "2026-02-10T05:35:04.907Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "codex",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode",
+    "antigravity",
+    "claude-code"
+  ]
+}
